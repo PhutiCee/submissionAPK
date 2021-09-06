@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PieceJob</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">LOGIN</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="communicate">Communicate</string>
+    <string name="log">Login</string>
+    <string name="about1">About</string>
+    <string name="feed1">Feed</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="profile">Profile</string>
+    <string name="trymichelsekwadi_gmail_com">trymichelsekwadi@gmail.com</string>
+    <string name="sekwadi_tp">Sekwadi TP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="feed">Feed</string>
+    <string name="about">About</string>
+    <string name="developer">Developer</string>
+    <string name="account">Account</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="share">Share</string>
+</resources>
